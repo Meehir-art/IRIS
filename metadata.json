@@ -1,0 +1,8 @@
+{
+  "name": "Remix PrivAI Guard",
+  "description": "An intelligent pre-LLM privacy firewall that detects, evaluates, and protects sensitive information before it reaches AI systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
